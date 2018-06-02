@@ -1,0 +1,9 @@
+c:\users\chime\documents\visual studio 2015\Projects\MgrMPC\MgrMPC\bin\Debug\MgrMPC.exe.config
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\bin\Debug\MgrMPC.exe
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\bin\Debug\MgrMPC.pdb
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\obj\Debug\MgrMPC.csprojResolveAssemblyReference.cache
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\obj\Debug\MgrMPC.Properties.Resources.resources
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\obj\Debug\MgrMPC.csproj.GenerateResource.Cache
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\obj\Debug\MgrMPC.exe
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\obj\Debug\MgrMPC.pdb
+C:\Users\chime\Documents\Visual Studio 2015\Projects\MgrMPC\MgrMPC\obj\Debug\MgrMPC.MPC.resources
